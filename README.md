@@ -1,4 +1,3 @@
-```
 # ASCNZEN.com Fork
 
 This project is a fork of the website [ASCNZEN.com](https://ascnzen.com/).
@@ -18,27 +17,19 @@ This repository contains a forked version of the ASCNZEN.com website. Feel free 
 ### Installation
 
 1. Clone the repository:
-   ```
-   git clone https://github.com/velocity-2/ascnzen.com.git
-   ```
+git clone https://github.com/velocity-2/ascnzen.com.git
 
 2. Navigate to the project directory:
-   ```
-   cd ascnzen.com
-   ```
+cd ascnzen.com
 
 3. Install dependencies:
-   ```
-   npm install
-   ```
+npm install
 
 ### Running the Project
 
 To run the project locally:
 
-```
 npm start
-```
 
 The site should now be running on `http://localhost:3000` (or another port if specified).
 
@@ -67,4 +58,3 @@ Please refer to the original [ASCNZEN.com](https://ascnzen.com/) website for lic
 ## Contact
 
 For any queries regarding this fork, please open an issue in this repository.
-```
